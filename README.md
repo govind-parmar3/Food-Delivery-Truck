@@ -1,2 +1,2 @@
 Food Delivery Truck create by govind parmar
-![image alt](https://github.com/govind-parmar3/Food-Delivery-Truck/blob/556133b3bfc18fb851fc1a1531c001a1d62d2565/Screenshot%20(12).png)
+https://github.com/govind-parmar3/Food-Delivery-Truck/blob/bf1aab03718f3d4767a838f466fba4873e5bf1f3/README.md
